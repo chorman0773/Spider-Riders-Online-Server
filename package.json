@@ -1,0 +1,18 @@
+{
+  "name": "spider-riders-online",
+  "version": "1.0.0",
+  "description": "Blind and Flash Reverse Engineering of Game from 2011",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Horman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sqlite3":"^4.1.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
