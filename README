@@ -2,4 +2,7 @@ Attempt at reverse Engineering the old flash game Battle for Arachna
 
 In order to use this, you will need a copy of the game downloaded to files/SpiderRider_2.swf. The Game is not distributed with this repository for copyright reasons. This repository simply attempts to emulate the server-side behavior of the game.
 
+You will need node and npm for this game. The first time you run, you will need to initialize with npm install.
+Then you can run with node server.js. 
+
 This repository is licensed under MIT
