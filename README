@@ -1,0 +1,5 @@
+Attempt at reverse Engineering the old flash game Battle for Arachna
+
+In order to use this, you will need a copy of the game downloaded to files/SpiderRider_2.swf. The Game is not distributed with this repository for copyright reasons. This repository simply attempts to emulate the server-side behavior of the game.
+
+This repository is licensed under MIT
