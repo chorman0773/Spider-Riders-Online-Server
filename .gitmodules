@@ -1,0 +1,3 @@
+[submodule "ruffle"]
+	path = ruffle
+	url = https://github.com/chorman0773/ruffle.git
