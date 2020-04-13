@@ -17,3 +17,12 @@ The game requires several files, a (non-exhaustive) list is provided here. Each 
 2. `battleSystem_2.swf`
 3. `scr1_2.swf`
 4. `character_2.swf` (Note: it seems to not be possible to obtain this file specifically from the wayback machine)
+
+It may be possible in the future to develop similar versions of each file,
+ when more is understood about the game. 
+
+## Additional Resources
+
+By default this project uses flash player. This of course requires that your browser support flash. 
+
+The ruffle project can also be used to provide flash support.
